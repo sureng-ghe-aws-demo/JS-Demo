@@ -19,4 +19,13 @@
       "enabled": true
     }
   }
+  "hostRules": [
+    {
+    "matchHost": "http://ec2-18-221-27-11.us-east-2.compute.amazonaws.com:4873",
+    "hostType": "npm",
+    "encrypted": {
+        "token": "wcBMA8xOaBJvzJNbAQf/YXGJF6m0PBYFqgZ/XWZi47+ukJxsSL/PoEWhMeNqfZrRnnSAv5QvQjlr//Z0IT8eOKjJpdsovI7/RYw+8AVDljk4qLCa+tmsO9B04KlYFmfmCk1AxYap6zEH1AVrryo56m3hX+pQzcepb3SNXq2pSJShMqZy5/MB29LY5N6iUA2BquIV0rx1+mOpVMHKZsJc9Ord/kGUB7B1wZB14Ty8Tp+h2zUjqTzcUAxq4dDLSVBVsWhWB4+4tB5DNMAsVWdjD2SCgYp+3l57QPHV1hYhgkYOSxHwKS0XE1JAZAN789FqD/SgaeYdkv0Ry1OoLoLBW0OjhEHJdds7WxA4Lny2JNJyAdQTcR/cNANY0sFcYM95mXuDFPk5ncnsSdTlnG1KDgcBGqhbC+BhaGBaNL6K6Dgg6QA6Geaz9Chk4iA+rXCbwP7hyLALIQBvH6Ae4m/3OkprzM3Mwd6wHJ6DL85UboZZaAvs1xdfT+R0gKMO8wEQADT9"
+        }
+    }
+]
 }
